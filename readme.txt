@@ -12,7 +12,11 @@ ten
 eleven
 twelve
 thirteen
-fourteen
+fourtee
+=========
+diverense
+=========
+
 
 
 
